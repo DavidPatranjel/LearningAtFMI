@@ -1,2 +1,2 @@
-# LearingAtFMI
+# LearningAtFMI
 Materiale pentru FMI - UNIBUC
