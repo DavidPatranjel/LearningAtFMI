@@ -8,7 +8,7 @@ Acest repository conține link-uri la materiale utile pentru studenții [Facult�
 - [Informatică](Specializări/Informatică/README.md)
 - [Matematică](Specializări/Matematică/README.md)
   - [Matematică aplicată](Specializări/Matematică/Aplicată/README.md)
-  - [Matematică-informatică](Specializări/Matematică/Matematică-informatică/README.md)
+  - [Matematică-informatică](Specializări/Matematică/Informatică/README.md)
   - [Matematică](Specializări/Matematică/Pură/README.md) (pură)
 
 ## Credits
