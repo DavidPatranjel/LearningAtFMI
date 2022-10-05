@@ -1,4 +1,4 @@
-# Programare Orientată pe Obiecte
+# Programare orientată pe obiecte
 
 ## Teme și proiecte
 
