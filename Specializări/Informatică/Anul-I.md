@@ -2,7 +2,7 @@
 
 ## Semestrul I
 
-- [Arhitectura sistemelor de calcul](../../Materii/ASC.md)
+- [Arhitectura sistemelor de calcul](../../Materii/Informatică/ASC.md)
 - [Gândire critică și etică academică](../../Materii/Altele/GCEA.md)
 - [Logică matematică și computațională](../../Materii/Matematică/Logică.md)
 - [Programarea algoritmilor](../../Materii/Informatică/PA.md)
