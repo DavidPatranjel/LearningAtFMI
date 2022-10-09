@@ -12,7 +12,7 @@
 ## Semestrul II
 
 - [Algebră II](../../Materii/Matematică/AlgebrăII.md)
-- [Analiză matematică II]((../../Materii/Matematică/AnalizăII.md))
+- [Analiză matematică II](../../Materii/Matematică/AnalizăII.md)
 - [Elemente de calcul științific](../../Materii/Matematică/ElemCalcȘtiințific.md)
 - [Geometrie II](../../Materii/Matematică/GeometrieII.md)
 - [Logică matematică](../../Materii/Matematică/Logică.md)
