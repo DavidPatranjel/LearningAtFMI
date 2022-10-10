@@ -2,12 +2,12 @@
 
 ## Semestrul I
 
-- Analiză matematică
-- Algebră și geometrie
-- Fizică
+- [Analiză matematică](../../Materii/Matematică/CalcDif.md)
+- [Algebră și geometrie](../../Materii/Matematică/AlgGeom.md)
+- [Fizică](../../Materii/Fizică/Fizică.md)
 - Programarea calculatoarelor I
-- Proiectare logică
-- Utilizarea sistemelor de operare
+- [Proiectare logică](../../Materii/Fizică/ProiectareLogică.md)
+- [Utilizarea sistemelor de operare](../../Materii/Informatică/USO.md)
 
 ### Facultative
 
@@ -16,8 +16,8 @@
 ## Semestrul II
 
 - [Arhitectura sistemelor de calcul](../../Materii/Informatică/ASC.md)
-- Bazele electrotehnicii
-- Calcul numeric
+- [Bazele electrotehnicii](../../Materii/Fizică/BazeleElectrotehnicii.md)
+- [Calcul numeric](../../Materii/Informatică/CN.md)
 - Grafică asistată de calculator
-- Matematici speciale
+- [Matematici speciale](../../Materii/Matematică/MatematiciSpeciale.md)
 - Programarea calculatoarelor II
