@@ -5,7 +5,7 @@
 - [Analiză matematică](../../Materii/Matematică/CalcDif.md)
 - [Algebră și geometrie](../../Materii/Matematică/AlgGeom.md)
 - [Fizică](../../Materii/Fizică/Fizică.md)
-- Programarea calculatoarelor I
+- [Programarea calculatoarelor I](../../Materii/Informatică/PC1.md)
 - [Proiectare logică](../../Materii/Fizică/ProiectareLogică.md)
 - [Utilizarea sistemelor de operare](../../Materii/Informatică/USO.md)
 
