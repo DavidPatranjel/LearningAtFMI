@@ -4,7 +4,7 @@
 
 - [Cursuri Drăgulici](https://onedrive.live.com/?authkey=%21ACfZ3uItRFEPUx8&id=A2935140F979ECCB%211374&cid=A2935140F979ECCB)
 
-- [Cursuri C. Rusu](https://unibucro0-my.sharepoint.com/:f:/r/personal/maria-ilinca_nechita_s_unibuc_ro/Documents/Semestrul%20I-%20materiale/Arhitectura%20sistemelor%20de%20calcul/Cursuri?csf=1&web=1&e=xIKsb9)
+- [Cursuri C. Rusu](https://unibucro0-my.sharepoint.com/:f:/g/personal/maria-ilinca_nechita_s_unibuc_ro/EpM3IAd_eLRHpZb9cYdCF8EBca1AxG0p8_iD8TNcCMNR4g?e=vxB6CA)
 
 ## Seminar
 
