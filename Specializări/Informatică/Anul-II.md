@@ -3,7 +3,7 @@
 ## Semestrul I
 
 - Algoritmi fundamentali
-- Probabilități și statistică
+- [Probabilități și statistică](../../Materii/Matematică/ProbStat.md)
 - Programare funcțională
 - Sisteme de gestiune a bazelor de date
 - Sisteme de operare
